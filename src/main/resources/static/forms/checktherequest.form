@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "label": "Anount Requested",
+      "type": "textfield",
+      "id": "Field_19sgfp5",
+      "key": "amountRequested",
+      "description": "Amount request by user for load"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1qixtfy",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.3.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}
