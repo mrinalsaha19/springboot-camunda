@@ -20,6 +20,9 @@ public class Application {
 
   @EventListener
   private void processPostDeploy(PostDeployEvent event) {
-    runtimeService.startProcessInstanceByKey("loanApproval");
+   // runtimeService.startProcessInstanceByKey("loanApproval");
+    //runtimeService.startProcessInstanceByKey("orderProcess");
   }
+
+
 }
